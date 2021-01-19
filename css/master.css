@@ -10,8 +10,6 @@ background-color:royalblue;
 .container {
 position: relative;
 width: 80vw;
-
-
 margin: 0 auto;
 }
 
@@ -26,7 +24,7 @@ border-radius: 10px;
 
 }
 .slide{
-margin-top:7vw;
+margin-top:12vh;
 width:80vw;
 height: 40vh;
 background-color: dodgerblue;
