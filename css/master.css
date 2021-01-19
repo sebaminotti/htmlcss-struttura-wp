@@ -1,0 +1,78 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing:border-box;
+}
+body {
+background-color:royalblue;
+}
+
+.container {
+position: relative;
+width: 80vw;
+
+
+margin: 0 auto;
+}
+
+.title {
+position: fixed;
+top: 2px;
+margin: 0;
+width: 80vw;
+height: 10vh;
+background:#2d2d2d;
+border-radius: 10px;
+
+}
+.slide{
+margin-top:7vw;
+width:80vw;
+height: 40vh;
+background-color: dodgerblue;
+border-radius: 10px;
+}
+.main {
+margin-top: 5vh;
+width: 80vw;
+height: 85vh;
+
+}
+.subtitle {
+display: inline-block;
+width:80vw;
+height: 10vh;
+background:#2d2d2d;
+border-radius: 10px;
+margin-bottom: 1vh;
+}
+.boxuno {
+border-radius: 10px;
+width:20vw;
+height:70vh;
+background-color: dodgerblue;
+float: left;
+}
+.boxdue {
+  border-radius: 10px;
+margin-left:1vw ;
+width:38vw;
+height:70vh;
+background-color:#2d2d2d;
+float: left;
+}
+.boxtre {
+border-radius: 10px;
+ margin-left:1vw ;
+  width:20vw;
+  height:70vh;
+  background-color:dodgerblue;
+  float: left;
+}
+.footer{
+border-radius: 10px;
+display: inline-block;
+width: 80vw;
+height: 10vh;
+background-color: #2d2d2d;
+}
